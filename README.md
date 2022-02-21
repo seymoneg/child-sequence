@@ -6,5 +6,5 @@ Here is the problem description:
 
 To compile it on Mac/Linux:
 * cd into the directory that holds this file
-* to compile, type **gcc -Wall child-sequence.c -o child-sequence**
-* to run, type **child-sequence *integer of your choosing*** 
+* to compile, type:  **gcc -Wall child-sequence.c -o child-sequence**
+* to run, type:  **child-sequence *integer of your choosing*** 
